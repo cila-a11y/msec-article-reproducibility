@@ -1,0 +1,1408 @@
+MSEC chunk 66/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 10/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 51/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 97/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 70/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 81/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 85/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 87/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 89/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 75/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 77/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 79/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 80/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 84/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 86/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 88/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 90/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 94/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 73/127 scenarios=9 max_starts=30 maxit=2000
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+MSEC chunk 103/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 115/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 119/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 124/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 98/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 105/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 107/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 109/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 121/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 123/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 125/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 127/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 96/127 scenarios=9 max_starts=30 maxit=2000
+scenario baseline_gaussian_n300: 7 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 7 replications
+scenario baseline_gaussian_n300: 7 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 7 replications
+scenario baseline_gaussian_n300: 7 replications
+scenario baseline_gaussian_n300: 7 replications
+scenario baseline_gaussian_n300: 7 replications
+scenario baseline_gaussian_n300: 7 replications
+scenario baseline_gaussian_n300: 7 replications
+scenario baseline_gaussian_n300: 7 replications
+MSEC chunk 55/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 62/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 32/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 59/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 60/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 61/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 36/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 42/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 38/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 33/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 35/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 37/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 39/127 scenarios=9 max_starts=30 maxit=2000
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+MSEC chunk 11/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 16/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 20/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 1/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 2/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 3/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 18/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 24/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 26/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 28/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 5/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 23/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 19/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 17/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 4/127 scenarios=9 max_starts=30 maxit=2000
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+MSEC chunk 25/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 27/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 31/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 9/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 0/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 13/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 6/127 scenarios=9 max_starts=30 maxit=2000
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+MSEC chunk 120/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 104/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 108/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 12/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 14/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 15/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 21/127 scenarios=9 max_starts=30 maxit=2000
+scenario baseline_gaussian_n300: 8 replications
+MSEC chunk 112/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 116/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 118/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 7/127 scenarios=9 max_starts=30 maxit=2000
+scenario baseline_gaussian_n300: 8 replications
+MSEC chunk 114/127 scenarios=9 max_starts=30 maxit=2000
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+MSEC chunk 111/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 99/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 101/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 113/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 117/127 scenarios=9 max_starts=30 maxit=2000
+scenario baseline_gaussian_n300: 7 replications
+scenario baseline_gaussian_n300: 7 replications
+scenario baseline_gaussian_n300: 7 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 7 replications
+scenario baseline_gaussian_n300: 7 replications
+scenario baseline_gaussian_n300: 7 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 7 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 7 replications
+scenario baseline_gaussian_n300: 7 replications
+scenario baseline_gaussian_n300: 7 replications
+MSEC chunk 71/127 scenarios=9 max_starts=30 maxit=2000
+scenario baseline_gaussian_n300: 8 replications
+MSEC chunk 43/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 47/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 65/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 67/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 69/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 91/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 93/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 95/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 68/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 64/127 scenarios=9 max_starts=30 maxit=2000
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+MSEC chunk 82/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 83/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 92/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 72/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 74/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 76/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 78/127 scenarios=9 max_starts=30 maxit=2000
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+MSEC chunk 41/127 scenarios=9 max_starts=30 maxit=2000
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+MSEC chunk 49/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 53/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 45/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 56/127 scenarios=9 max_starts=30 maxit=2000
+scenario baseline_gaussian_n300: 8 replications
+MSEC chunk 48/127 scenarios=9 max_starts=30 maxit=2000
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+MSEC chunk 54/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 50/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 34/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 40/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 46/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 52/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 57/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 63/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 44/127 scenarios=9 max_starts=30 maxit=2000
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+MSEC chunk 58/127 scenarios=9 max_starts=30 maxit=2000
+scenario baseline_gaussian_n300: 8 replications
+MSEC chunk 122/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 126/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 8/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 29/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 30/127 scenarios=9 max_starts=30 maxit=2000
+scenario baseline_gaussian_n300: 7 replications
+scenario baseline_gaussian_n300: 7 replications
+MSEC chunk 22/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 100/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 102/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 106/127 scenarios=9 max_starts=30 maxit=2000
+MSEC chunk 110/127 scenarios=9 max_starts=30 maxit=2000
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 7 replications
+scenario baseline_gaussian_n300: 8 replications
+scenario baseline_gaussian_n300: 7 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_t6: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_gaussian: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_gaussian: 2 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario robust_rmse_t6: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario coverage_t6_n300: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario coverage_t6_n300: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_gaussian_n150: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario robust_rmse_t6: 2 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_gaussian_n300: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_t6_n300: 1 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_t6_n300: 1 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_t6_n300: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_t6_n300: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_t6_n300: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario coverage_t6_n300: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario coverage_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n150: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario sample_size_gaussian_n300: 1 replications
+scenario coverage_t6_n300: 2 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario coverage_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario coverage_t6_n300: 2 replications
+scenario sample_size_gaussian_n1000: 1 replications
+wrote results/article_chunks_v2/chunk_0115.csv rows=15
+scenario sample_size_gaussian_n1000: 1 replications
+wrote results/article_chunks_v2/chunk_0107.csv rows=15
+wrote results/article_chunks_v2/chunk_0109.csv rows=15
+wrote results/article_chunks_v2/chunk_0118.csv rows=15
+scenario sample_size_gaussian_n1000: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+wrote results/article_chunks_v2/chunk_0111.csv rows=15
+wrote results/article_chunks_v2/chunk_0119.csv rows=15
+scenario sample_size_gaussian_n1000: 1 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+wrote results/article_chunks_v2/chunk_0106.csv rows=15
+wrote results/article_chunks_v2/chunk_0105.csv rows=15
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario coverage_t6_n300: 2 replications
+wrote results/article_chunks_v2/chunk_0123.csv rows=15
+wrote results/article_chunks_v2/chunk_0108.csv rows=15
+wrote results/article_chunks_v2/chunk_0116.csv rows=15
+wrote results/article_chunks_v2/chunk_0117.csv rows=15
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+wrote results/article_chunks_v2/chunk_0097.csv rows=16
+scenario coverage_t6_n300: 2 replications
+wrote results/article_chunks_v2/chunk_0121.csv rows=15
+wrote results/article_chunks_v2/chunk_0127.csv rows=15
+wrote results/article_chunks_v2/chunk_0125.csv rows=15
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario coverage_t6_n300: 2 replications
+wrote results/article_chunks_v2/chunk_0114.csv rows=15
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+wrote results/article_chunks_v2/chunk_0120.csv rows=15
+wrote results/article_chunks_v2/chunk_0113.csv rows=15
+scenario coverage_t6_n300: 2 replications
+wrote results/article_chunks_v2/chunk_0074.csv rows=16
+scenario coverage_t6_n300: 2 replications
+wrote results/article_chunks_v2/chunk_0124.csv rows=15
+scenario coverage_t6_n300: 2 replications
+wrote results/article_chunks_v2/chunk_0110.csv rows=15
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+wrote results/article_chunks_v2/chunk_0090.csv rows=16
+scenario coverage_t6_n300: 2 replications
+wrote results/article_chunks_v2/chunk_0112.csv rows=15
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+wrote results/article_chunks_v2/chunk_0126.csv rows=15
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+wrote results/article_chunks_v2/chunk_0104.csv rows=15
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+scenario sample_size_gaussian_n1000: 1 replications
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+wrote results/article_chunks_v2/chunk_0122.csv rows=15
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+wrote results/article_chunks_v2/chunk_0081.csv rows=16
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+wrote results/article_chunks_v2/chunk_0086.csv rows=16
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+wrote results/article_chunks_v2/chunk_0093.csv rows=16
+scenario coverage_t6_n300: 2 replications
+wrote results/article_chunks_v2/chunk_0103.csv rows=16
+scenario coverage_t6_n300: 2 replications
+wrote results/article_chunks_v2/chunk_0087.csv rows=16
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+wrote results/article_chunks_v2/chunk_0100.csv rows=16
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+wrote results/article_chunks_v2/chunk_0083.csv rows=16
+wrote results/article_chunks_v2/chunk_0089.csv rows=16
+wrote results/article_chunks_v2/chunk_0073.csv rows=16
+scenario coverage_t6_n300: 2 replications
+wrote results/article_chunks_v2/chunk_0096.csv rows=16
+wrote results/article_chunks_v2/chunk_0082.csv rows=16
+wrote results/article_chunks_v2/chunk_0088.csv rows=16
+wrote results/article_chunks_v2/chunk_0098.csv rows=16
+wrote results/article_chunks_v2/chunk_0084.csv rows=16
+scenario coverage_t6_n300: 2 replications
+wrote results/article_chunks_v2/chunk_0092.csv rows=16
+wrote results/article_chunks_v2/chunk_0078.csv rows=16
+wrote results/article_chunks_v2/chunk_0099.csv rows=16
+wrote results/article_chunks_v2/chunk_0101.csv rows=16
+wrote results/article_chunks_v2/chunk_0095.csv rows=16
+wrote results/article_chunks_v2/chunk_0075.csv rows=16
+wrote results/article_chunks_v2/chunk_0091.csv rows=16
+wrote results/article_chunks_v2/chunk_0102.csv rows=16
+scenario coverage_t6_n300: 2 replications
+wrote results/article_chunks_v2/chunk_0077.csv rows=16
+scenario coverage_t6_n300: 2 replications
+scenario coverage_t6_n300: 2 replications
+wrote results/article_chunks_v2/chunk_0080.csv rows=16
+wrote results/article_chunks_v2/chunk_0079.csv rows=16
+wrote results/article_chunks_v2/chunk_0094.csv rows=16
+scenario sample_size_gaussian_n150: 2 replications
+wrote results/article_chunks_v2/chunk_0072.csv rows=16
+wrote results/article_chunks_v2/chunk_0076.csv rows=16
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario coverage_t6_n300: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+wrote results/article_chunks_v2/chunk_0085.csv rows=16
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n150: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n300: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+scenario sample_size_gaussian_n1000: 2 replications
+wrote results/article_chunks_v2/chunk_0042.csv rows=24
+wrote results/article_chunks_v2/chunk_0049.csv rows=24
+wrote results/article_chunks_v2/chunk_0032.csv rows=24
+wrote results/article_chunks_v2/chunk_0004.csv rows=24
+wrote results/article_chunks_v2/chunk_0064.csv rows=24
+wrote results/article_chunks_v2/chunk_0044.csv rows=24
+wrote results/article_chunks_v2/chunk_0041.csv rows=24
+wrote results/article_chunks_v2/chunk_0013.csv rows=24
+wrote results/article_chunks_v2/chunk_0054.csv rows=24
+wrote results/article_chunks_v2/chunk_0012.csv rows=24
+wrote results/article_chunks_v2/chunk_0050.csv rows=24
+wrote results/article_chunks_v2/chunk_0052.csv rows=24
+wrote results/article_chunks_v2/chunk_0070.csv rows=24
+wrote results/article_chunks_v2/chunk_0046.csv rows=24
+wrote results/article_chunks_v2/chunk_0067.csv rows=24
+wrote results/article_chunks_v2/chunk_0051.csv rows=24
+wrote results/article_chunks_v2/chunk_0003.csv rows=24
+wrote results/article_chunks_v2/chunk_0061.csv rows=24
+wrote results/article_chunks_v2/chunk_0047.csv rows=24
+wrote results/article_chunks_v2/chunk_0006.csv rows=24
+wrote results/article_chunks_v2/chunk_0011.csv rows=24
+wrote results/article_chunks_v2/chunk_0008.csv rows=24
+wrote results/article_chunks_v2/chunk_0028.csv rows=24
+wrote results/article_chunks_v2/chunk_0059.csv rows=24
+wrote results/article_chunks_v2/chunk_0069.csv rows=24
+wrote results/article_chunks_v2/chunk_0060.csv rows=24
+wrote results/article_chunks_v2/chunk_0039.csv rows=24
+wrote results/article_chunks_v2/chunk_0017.csv rows=24
+wrote results/article_chunks_v2/chunk_0015.csv rows=24
+wrote results/article_chunks_v2/chunk_0029.csv rows=24
+wrote results/article_chunks_v2/chunk_0055.csv rows=24
+wrote results/article_chunks_v2/chunk_0063.csv rows=24
+wrote results/article_chunks_v2/chunk_0071.csv rows=24
+wrote results/article_chunks_v2/chunk_0056.csv rows=24
+wrote results/article_chunks_v2/chunk_0040.csv rows=24
+wrote results/article_chunks_v2/chunk_0066.csv rows=24
+wrote results/article_chunks_v2/chunk_0045.csv rows=24
+wrote results/article_chunks_v2/chunk_0037.csv rows=24
+wrote results/article_chunks_v2/chunk_0005.csv rows=24
+wrote results/article_chunks_v2/chunk_0020.csv rows=24
+wrote results/article_chunks_v2/chunk_0016.csv rows=24
+wrote results/article_chunks_v2/chunk_0007.csv rows=24
+wrote results/article_chunks_v2/chunk_0001.csv rows=24
+wrote results/article_chunks_v2/chunk_0036.csv rows=24
+wrote results/article_chunks_v2/chunk_0038.csv rows=24
+wrote results/article_chunks_v2/chunk_0048.csv rows=24
+wrote results/article_chunks_v2/chunk_0062.csv rows=24
+wrote results/article_chunks_v2/chunk_0018.csv rows=24
+wrote results/article_chunks_v2/chunk_0030.csv rows=24
+wrote results/article_chunks_v2/chunk_0065.csv rows=24
+wrote results/article_chunks_v2/chunk_0053.csv rows=24
+wrote results/article_chunks_v2/chunk_0068.csv rows=24
+wrote results/article_chunks_v2/chunk_0010.csv rows=24
+wrote results/article_chunks_v2/chunk_0031.csv rows=24
+wrote results/article_chunks_v2/chunk_0019.csv rows=24
+wrote results/article_chunks_v2/chunk_0022.csv rows=24
+wrote results/article_chunks_v2/chunk_0033.csv rows=24
+wrote results/article_chunks_v2/chunk_0021.csv rows=24
+wrote results/article_chunks_v2/chunk_0009.csv rows=24
+wrote results/article_chunks_v2/chunk_0024.csv rows=24
+wrote results/article_chunks_v2/chunk_0057.csv rows=24
+wrote results/article_chunks_v2/chunk_0027.csv rows=24
+wrote results/article_chunks_v2/chunk_0035.csv rows=24
+wrote results/article_chunks_v2/chunk_0058.csv rows=24
+wrote results/article_chunks_v2/chunk_0002.csv rows=24
+wrote results/article_chunks_v2/chunk_0026.csv rows=24
+wrote results/article_chunks_v2/chunk_0025.csv rows=24
+wrote results/article_chunks_v2/chunk_0034.csv rows=24
+wrote results/article_chunks_v2/chunk_0043.csv rows=24
+wrote results/article_chunks_v2/chunk_0014.csv rows=24
+wrote results/article_chunks_v2/chunk_0000.csv rows=24
+wrote results/article_chunks_v2/chunk_0023.csv rows=24

@@ -1,0 +1,16 @@
+"scenario_id","generator","n","parameter","observed","sandwich","n_used"
+"coverage_gaussian_n150","gaussian",150,"rho",0.815,0.805,200
+"coverage_gaussian_n150","gaussian",150,"delta1",0.93,0.93,200
+"coverage_gaussian_n150","gaussian",150,"delta2",0.925,0.93,200
+"coverage_gaussian_n150","gaussian",150,"alpha1",0.79,0.79,200
+"coverage_gaussian_n150","gaussian",150,"alpha2",0.84,0.795,200
+"coverage_gaussian_n300","gaussian",300,"rho",0.82,0.805,200
+"coverage_gaussian_n300","gaussian",300,"delta1",0.91,0.91,200
+"coverage_gaussian_n300","gaussian",300,"delta2",0.93,0.93,200
+"coverage_gaussian_n300","gaussian",300,"alpha1",0.75,0.715,200
+"coverage_gaussian_n300","gaussian",300,"alpha2",0.705,0.69,200
+"coverage_t6_n300","t",300,"rho",0.77,0.765,200
+"coverage_t6_n300","t",300,"delta1",0.895,0.9,200
+"coverage_t6_n300","t",300,"delta2",0.935,0.925,200
+"coverage_t6_n300","t",300,"alpha1",0.69,0.685,200
+"coverage_t6_n300","t",300,"alpha2",0.68,0.665,200

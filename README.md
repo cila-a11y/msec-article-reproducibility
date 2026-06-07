@@ -1,0 +1,55 @@
+# MSEC article reproducibility package
+
+This package contains the numerical results, figures, and scripts used for the revised manuscript on the multimodal skew-elliptical class (MSEC).
+
+## Results selected for the manuscript
+
+Use these Monte Carlo summaries:
+
+- results/article_summary_v2/summary_estimation_article.csv
+- results/article_summary_v2/summary_fit_quality_article.csv
+- results/article_summary_v2/summary_lr_lambda_article.csv
+- results/article_summary_v2/summary_lr_delta_article.csv
+- results/article_summary_v2/summary_wald_coverage_diagnostic.csv
+
+Use these Old Faithful summaries:
+
+- results/faithful_v2/faithful_data_summary.csv
+- results/faithful_v2/faithful_data_extra.csv
+- results/faithful_v2/faithful_model_comparison.csv
+- results/faithful_v2/faithful_parameter_estimates.csv
+- results/faithful_v2/faithful_lr_delta_bootstrap.csv
+
+## Figures
+
+Monte Carlo figures are in figures/monte_carlo/.
+
+Old Faithful figures are in figures/faithful/.
+
+All figures are PDF files with English lowercase labels and no titles.
+
+## Important note
+
+Do not use earlier estimation summaries from results/summary/summary_estimation.csv or results/article_summary_current/summary_estimation_article.csv.
+
+Those files came from earlier runs and are not selected for the revised manuscript.
+
+## Reproduction on Deucalion
+
+Main LR run:
+sbatch slurm/deucalion_msec_4nodes_128cores.sh
+sbatch --dependency=afterok:<MAIN_JOB_ID> slurm/deucalion_combine.sh
+
+Final estimation/RMSE/coverage run:
+sbatch slurm/deucalion_article_estim_coverage_v2.sh
+sbatch --dependency=afterok:<ARTICLE_JOB_ID> slurm/deucalion_article_combine_v2.sh
+
+Old Faithful application:
+sbatch slurm/deucalion_faithful_v2.sh
+sbatch slurm/deucalion_faithful_figures_pdfonly.sh
+
+Monte Carlo figures:
+sbatch slurm/deucalion_mc_figures_pdfonly.sh
+
+Validation:
+Rscript scripts/validate_article_v2.R

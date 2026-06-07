@@ -1,0 +1,115 @@
+fit quality:
+                 scenario_id             study generator    n n_total ok_rate
+1     baseline_gaussian_n300 baseline_accuracy  gaussian  300    1000       1
+2       robust_rmse_gaussian       robust_rmse  gaussian  300     200       1
+3             robust_rmse_t6       robust_rmse         t  300     200       1
+4     coverage_gaussian_n150          coverage  gaussian  150     200       1
+5     coverage_gaussian_n300          coverage  gaussian  300     200       1
+6           coverage_t6_n300          coverage         t  300     200       1
+7  sample_size_gaussian_n150       sample_size  gaussian  150     200       1
+8  sample_size_gaussian_n300       sample_size  gaussian  300     200       1
+9 sample_size_gaussian_n1000       sample_size  gaussian 1000     200       1
+  conv0_rate strict_rate alpha_boundary_rate median_grad_norm
+1      0.996       0.121               0.000       0.08051777
+2      1.000       0.110               0.000       0.06898681
+3      0.990       0.120               0.000       0.07813656
+4      1.000       0.505               0.005       0.02216527
+5      0.995       0.100               0.000       0.08027662
+6      1.000       0.120               0.000       0.08496521
+7      0.995       0.540               0.000       0.02429800
+8      1.000       0.125               0.000       0.06828882
+9      0.970       0.000               0.000       0.52848716
+  median_alpha_grad_norm
+1            0.010575717
+2            0.010554707
+3            0.010764091
+4            0.004020954
+5            0.012115256
+6            0.011140665
+7            0.003530866
+8            0.010227666
+9            0.053945646
+
+minimum n_used by scenario:
+                 scenario_id             study generator    n n_total n_used
+1     coverage_gaussian_n150          coverage  gaussian  150     200    200
+2  sample_size_gaussian_n150       sample_size  gaussian  150     200    200
+3     coverage_gaussian_n300          coverage  gaussian  300     200    200
+4       robust_rmse_gaussian       robust_rmse  gaussian  300     200    200
+5  sample_size_gaussian_n300       sample_size  gaussian  300     200    200
+6           coverage_t6_n300          coverage         t  300     200    200
+7             robust_rmse_t6       robust_rmse         t  300     200    200
+8 sample_size_gaussian_n1000       sample_size  gaussian 1000     200    200
+9     baseline_gaussian_n300 baseline_accuracy  gaussian  300    1000   1000
+
+key estimation summaries:
+            scenario_id parameter  true       mean          bias       rmse
+ baseline_gaussian_n300       mu1  0.30  0.3319803  0.0319802758 0.07830044
+ baseline_gaussian_n300       mu2 -0.20 -0.2267102 -0.0267102309 0.06805158
+ baseline_gaussian_n300    sigma1  1.10  1.0688178 -0.0311822398 0.08320396
+ baseline_gaussian_n300    sigma2  0.90  0.8974170 -0.0025829758 0.03902400
+ baseline_gaussian_n300       rho  0.35  0.3787654  0.0287653919 0.07349188
+ baseline_gaussian_n300    delta1  0.70  0.6958472 -0.0041527583 0.08993976
+ baseline_gaussian_n300    delta2  0.40  0.4024179  0.0024178904 0.06764689
+ baseline_gaussian_n300    alpha1  1.20  1.0801003 -0.1198997247 0.31528166
+ baseline_gaussian_n300    alpha2 -0.80 -0.7138896  0.0861103837 0.20934379
+   robust_rmse_gaussian       mu1  0.30  0.3269778  0.0269778471 0.06092512
+   robust_rmse_gaussian       mu2 -0.20 -0.2330745 -0.0330745270 0.07730349
+   robust_rmse_gaussian    sigma1  1.10  1.0741206 -0.0258794119 0.08562712
+   robust_rmse_gaussian    sigma2  0.90  0.8981603 -0.0018397216 0.04562837
+   robust_rmse_gaussian       rho  0.35  0.3823844  0.0323844482 0.08197607
+   robust_rmse_gaussian    delta1  0.70  0.6969692 -0.0030307793 0.08692696
+   robust_rmse_gaussian    delta2  0.40  0.4058154  0.0058153586 0.07312340
+   robust_rmse_gaussian    alpha1  1.20  1.0871260 -0.1128740223 0.25424150
+   robust_rmse_gaussian    alpha2 -0.80 -0.7024438  0.0975562099 0.21465913
+         robust_rmse_t6       mu1  0.30  0.3423907  0.0423906578 0.08797050
+         robust_rmse_t6       mu2 -0.20 -0.2284581 -0.0284581173 0.09570688
+         robust_rmse_t6    sigma1  1.10  1.0700180 -0.0299820020 0.09474830
+         robust_rmse_t6    sigma2  0.90  0.9037802  0.0037801518 0.04949572
+         robust_rmse_t6       rho  0.35  0.3850484  0.0350484081 0.08775239
+         robust_rmse_t6    delta1  0.70  0.6931856 -0.0068143792 0.10989054
+         robust_rmse_t6    delta2  0.40  0.4008398  0.0008398179 0.06794394
+         robust_rmse_t6    alpha1  1.20  1.0601633 -0.1398366551 0.31972576
+         robust_rmse_t6    alpha2 -0.80 -0.6942651  0.1057348527 0.27322878
+ n_used n_total
+   1000    1000
+   1000    1000
+   1000    1000
+   1000    1000
+   1000    1000
+   1000    1000
+   1000    1000
+   1000    1000
+   1000    1000
+    200     200
+    200     200
+    200     200
+    200     200
+    200     200
+    200     200
+    200     200
+    200     200
+    200     200
+    200     200
+    200     200
+    200     200
+    200     200
+    200     200
+    200     200
+    200     200
+    200     200
+    200     200
+
+baseline absolute biases:
+ parameter  true       mean         bias       rmse
+       mu1  0.30  0.3319803  0.031980276 0.07830044
+       mu2 -0.20 -0.2267102 -0.026710231 0.06805158
+    sigma1  1.10  1.0688178 -0.031182240 0.08320396
+    sigma2  0.90  0.8974170 -0.002582976 0.03902400
+       rho  0.35  0.3787654  0.028765392 0.07349188
+    delta1  0.70  0.6958472 -0.004152758 0.08993976
+    delta2  0.40  0.4024179  0.002417890 0.06764689
+    alpha1  1.20  1.0801003 -0.119899725 0.31528166
+    alpha2 -0.80 -0.7138896  0.086110384 0.20934379
+
+OK: article v2 estimation summaries pass validation checks.

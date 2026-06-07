@@ -1,0 +1,5 @@
+"scenario_id","generator","n","mean_LR","median_LR","n_used","full_ok_rate","null_ok_rate","reject_10%","reject_5%","reject_1%"
+"lr_lambda_size_gaussian","gaussian",300,2.20573136966732,1.49927098346359,1000,1,1,0.129,0.068,0.015
+"lr_lambda_power_gaussian","gaussian",300,72.9085733249818,73.8530233235911,1000,1,1,1,1,1
+"lr_lambda_size_t6","t",300,2.26409897085399,1.50633441351692,1000,1,1,0.127,0.074,0.02
+"lr_lambda_power_t6","t",300,64.2224522672754,67.7463150411477,1000,1,1,0.987,0.982,0.97

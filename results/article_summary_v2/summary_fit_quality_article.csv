@@ -1,0 +1,10 @@
+"scenario_id","study","generator","n","n_total","ok_rate","conv0_rate","strict_rate","alpha_boundary_rate","median_grad_norm","median_alpha_grad_norm"
+"baseline_gaussian_n300","baseline_accuracy","gaussian",300,1000,1,0.996,0.121,0,0.0805177669645682,0.0105757174712625
+"robust_rmse_gaussian","robust_rmse","gaussian",300,200,1,1,0.11,0,0.0689868076206445,0.0105547068725679
+"robust_rmse_t6","robust_rmse","t",300,200,1,0.99,0.12,0,0.0781365643017377,0.0107640909566998
+"coverage_gaussian_n150","coverage","gaussian",150,200,1,1,0.505,0.005,0.0221652689313116,0.0040209535409935
+"coverage_gaussian_n300","coverage","gaussian",300,200,1,0.995,0.1,0,0.0802766177424094,0.0121152563312576
+"coverage_t6_n300","coverage","t",300,200,1,1,0.12,0,0.0849652133415877,0.0111406649592953
+"sample_size_gaussian_n150","sample_size","gaussian",150,200,1,0.995,0.54,0,0.0242979968942145,0.0035308664293359
+"sample_size_gaussian_n300","sample_size","gaussian",300,200,1,1,0.125,0,0.0682888199442677,0.0102276656946118
+"sample_size_gaussian_n1000","sample_size","gaussian",1000,200,1,0.97,0,0,0.528487160907547,0.0539456459611105

@@ -1,0 +1,3 @@
+"scenario_id","generator","n","mean_LR","median_LR","n_used","mean_boot_ok","reject_chisq_10%","reject_boot_10%","reject_chisq_5%","reject_boot_5%","reject_chisq_1%","reject_boot_1%"
+"lr_delta_size_gaussian","gaussian",300,1.68049337640943,0.821252438554438,200,199,0.1,0.1,0.065,0.06,0.025,0
+"lr_delta_power_gaussian","gaussian",300,78.7628294083759,78.4487758511788,200,199,1,1,1,1,0.995,0.995

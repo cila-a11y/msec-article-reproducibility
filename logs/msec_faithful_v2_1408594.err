@@ -1,0 +1,3 @@
+Error in plot_fun() : MASS package is required for kde2d
+Calls: save_figure -> plot_fun
+Execution halted

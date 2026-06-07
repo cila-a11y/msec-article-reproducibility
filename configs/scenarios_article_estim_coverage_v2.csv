@@ -1,0 +1,10 @@
+scenario_id,study,generator,n,nu,rho,delta1,delta2,alpha1,alpha2,B,B_boot
+baseline_gaussian_n300,baseline_accuracy,gaussian,300,6,0.35,0.7,0.4,1.2,-0.8,1000,0
+robust_rmse_gaussian,robust_rmse,gaussian,300,6,0.35,0.7,0.4,1.2,-0.8,200,0
+robust_rmse_t6,robust_rmse,t,300,6,0.35,0.7,0.4,1.2,-0.8,200,0
+coverage_gaussian_n150,coverage,gaussian,150,6,0.35,0.7,0.4,1.2,-0.8,200,0
+coverage_gaussian_n300,coverage,gaussian,300,6,0.35,0.7,0.4,1.2,-0.8,200,0
+coverage_t6_n300,coverage,t,300,6,0.35,0.7,0.4,1.2,-0.8,200,0
+sample_size_gaussian_n150,sample_size,gaussian,150,6,0.35,0.7,0.4,1.2,-0.8,200,0
+sample_size_gaussian_n300,sample_size,gaussian,300,6,0.35,0.7,0.4,1.2,-0.8,200,0
+sample_size_gaussian_n1000,sample_size,gaussian,1000,6,0.35,0.7,0.4,1.2,-0.8,200,0
