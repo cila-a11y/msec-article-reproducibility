@@ -1,0 +1,5 @@
+"panel","delta1","delta2","rho","alpha1","alpha2","description"
+"a",0,0,0.7,0,0,"unwarped gaussian core"
+"b",0.3,0.3,0.7,0,0,"weak symmetric warping"
+"c",0.7,0.7,0.7,0,0,"moderate symmetric warping"
+"d",1.1,1.1,0.7,0,0,"strong symmetric warping"

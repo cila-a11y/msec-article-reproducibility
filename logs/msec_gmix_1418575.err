@@ -1,0 +1,728 @@
+chunk 1 scenario weak rep 1 
+chunk 5 scenario moderate rep 2 
+chunk 126 scenario strong rep 42 
+chunk 0 scenario moderate rep 43 
+chunk 95 scenario moderate rep 32 
+chunk 38 scenario moderate rep 13 
+chunk 4 scenario weak rep 2 
+chunk 106 scenario weak rep 36 
+chunk 18 scenario strong rep 6 
+chunk 20 scenario moderate rep 7 
+chunk 22 scenario weak rep 8 
+chunk 8 scenario moderate rep 3 
+chunk 9 scenario strong rep 3 
+chunk 10 scenario weak rep 4 
+chunk 11 scenario moderate rep 4 
+chunk 12 scenario strong rep 4 
+chunk 13 scenario weak rep 5 
+chunk 14 scenario moderate rep 5 
+chunk 15 scenario strong rep 5 
+chunk 119 scenario moderate rep 40 
+chunk 115 scenario weak rep 39 
+chunk 105 scenario strong rep 35 
+chunk 99 scenario strong rep 33 
+chunk 98 scenario moderate rep 33 
+chunk 100 scenario weak rep 34 
+chunk 120 scenario strong rep 40 
+chunk 103 scenario weak rep 35 
+chunk 108 scenario strong rep 36 
+chunk 125 scenario moderate rep 42 
+chunk 127 scenario weak rep 43 
+chunk 123 scenario strong rep 41 
+chunk 114 scenario strong rep 38 
+chunk 118 scenario weak rep 40 
+chunk 116 scenario moderate rep 39 
+chunk 112 scenario weak rep 38 
+chunk 79 scenario weak rep 27 
+chunk 49 scenario weak rep 17 
+chunk 70 scenario weak rep 24 
+chunk 57 scenario strong rep 19 
+chunk 64 scenario weak rep 22 
+chunk 60 scenario strong rep 20 
+chunk 82 scenario weak rep 28 
+chunk 45 scenario strong rep 15 
+chunk 86 scenario moderate rep 29 
+chunk 59 scenario moderate rep 20 
+chunk 94 scenario weak rep 32 
+chunk 63 scenario strong rep 21 
+chunk 92 scenario moderate rep 31 
+chunk 41 scenario moderate rep 14 
+chunk 83 scenario moderate rep 28 
+chunk 43 scenario weak rep 15 
+chunk 81 scenario strong rep 27 
+chunk 47 scenario moderate rep 16 
+chunk 72 scenario strong rep 24 
+chunk 56 scenario moderate rep 19 
+chunk 74 scenario moderate rep 25 
+chunk 42 scenario strong rep 14 
+chunk 75 scenario strong rep 25 
+chunk 44 scenario moderate rep 15 
+chunk 77 scenario moderate rep 26 
+chunk 46 scenario weak rep 16 
+chunk 78 scenario strong rep 26 
+chunk 40 scenario weak rep 14 
+chunk 73 scenario weak rep 25 
+chunk 26 scenario moderate rep 9 
+chunk 28 scenario weak rep 10 
+chunk 30 scenario strong rep 10 
+chunk 54 scenario strong rep 18 
+chunk 24 scenario strong rep 8 
+chunk 107 scenario moderate rep 36 
+chunk 58 scenario weak rep 20 
+chunk 109 scenario weak rep 37 
+chunk 62 scenario moderate rep 21 
+chunk 111 scenario strong rep 37 
+chunk 102 scenario strong rep 34 
+chunk 117 scenario strong rep 39 
+chunk 96 scenario strong rep 32 
+chunk 48 scenario strong rep 16 
+chunk 50 scenario moderate rep 17 
+chunk 52 scenario weak rep 18 
+chunk 2 scenario moderate rep 1 
+chunk 6 scenario strong rep 2 
+chunk 33 scenario strong rep 11 
+chunk 35 scenario moderate rep 12 
+chunk 16 scenario weak rep 6 
+chunk 37 scenario weak rep 13 
+chunk 39 scenario strong rep 13 
+chunk 122 scenario moderate rep 41 
+chunk 32 scenario moderate rep 11 
+chunk 124 scenario weak rep 42 
+chunk 34 scenario weak rep 12 
+chunk 36 scenario strong rep 12 
+chunk 90 scenario strong rep 30 
+chunk 97 scenario weak rep 33 
+chunk 101 scenario moderate rep 34 
+chunk 104 scenario moderate rep 35 
+chunk 110 scenario moderate rep 37 
+chunk 80 scenario moderate rep 27 
+chunk 84 scenario strong rep 28 
+chunk 17 scenario moderate rep 6 
+chunk 19 scenario weak rep 7 
+chunk 21 scenario strong rep 7 
+chunk 23 scenario moderate rep 8 
+chunk 25 scenario weak rep 9 
+chunk 27 scenario strong rep 9 
+chunk 29 scenario moderate rep 10 
+chunk 31 scenario weak rep 11 
+chunk 88 scenario weak rep 30 
+chunk 65 scenario moderate rep 22 
+chunk 67 scenario weak rep 23 
+chunk 66 scenario strong rep 22 
+chunk 68 scenario moderate rep 23 
+chunk 69 scenario strong rep 23 
+chunk 71 scenario moderate rep 24 
+chunk 85 scenario weak rep 29 
+chunk 91 scenario weak rep 31 
+chunk 76 scenario weak rep 26 
+chunk 89 scenario moderate rep 30 
+chunk 93 scenario strong rep 31 
+chunk 3 scenario strong rep 1 
+chunk 7 scenario weak rep 3 
+chunk 87 scenario strong rep 29 
+chunk 121 scenario weak rep 41 
+chunk 113 scenario moderate rep 38 
+chunk 53 scenario moderate rep 18 
+chunk 55 scenario weak rep 19 
+chunk 51 scenario strong rep 17 
+chunk 61 scenario weak rep 21 
+chunk 90 scenario moderate rep 73 
+chunk 84 scenario moderate rep 71 
+chunk 21 scenario moderate rep 50 
+chunk 39 scenario moderate rep 56 
+chunk 96 scenario moderate rep 75 
+chunk 42 scenario moderate rep 57 
+chunk 126 scenario moderate rep 85 
+chunk 30 scenario moderate rep 53 
+chunk 12 scenario moderate rep 47 
+chunk 78 scenario moderate rep 69 
+chunk 60 scenario moderate rep 63 
+chunk 48 scenario moderate rep 59 
+chunk 75 scenario moderate rep 68 
+chunk 81 scenario moderate rep 70 
+chunk 93 scenario moderate rep 74 
+chunk 120 scenario moderate rep 83 
+chunk 114 scenario moderate rep 81 
+chunk 117 scenario moderate rep 82 
+chunk 111 scenario moderate rep 80 
+chunk 51 scenario moderate rep 60 
+chunk 45 scenario moderate rep 58 
+chunk 123 scenario moderate rep 84 
+chunk 104 scenario weak rep 78 
+chunk 36 scenario moderate rep 55 
+chunk 18 scenario moderate rep 49 
+chunk 108 scenario moderate rep 79 
+chunk 99 scenario moderate rep 76 
+chunk 63 scenario moderate rep 64 
+chunk 102 scenario moderate rep 77 
+chunk 87 scenario moderate rep 72 
+chunk 27 scenario moderate rep 52 
+chunk 105 scenario moderate rep 78 
+chunk 6 scenario moderate rep 45 
+chunk 3 scenario moderate rep 44 
+chunk 110 scenario weak rep 80 
+chunk 44 scenario weak rep 58 
+chunk 33 scenario moderate rep 54 
+chunk 5 scenario weak rep 45 
+chunk 86 scenario weak rep 72 
+chunk 15 scenario moderate rep 48 
+chunk 54 scenario moderate rep 61 
+chunk 83 scenario weak rep 71 
+chunk 77 scenario weak rep 69 
+chunk 32 scenario weak rep 54 
+chunk 38 scenario weak rep 56 
+chunk 69 scenario moderate rep 66 
+chunk 71 scenario weak rep 67 
+chunk 65 scenario weak rep 65 
+chunk 66 scenario moderate rep 65 
+chunk 125 scenario weak rep 85 
+chunk 41 scenario weak rep 57 
+chunk 95 scenario weak rep 75 
+chunk 98 scenario weak rep 76 
+chunk 26 scenario weak rep 52 
+chunk 62 scenario weak rep 64 
+chunk 72 scenario moderate rep 67 
+chunk 8 scenario weak rep 46 
+chunk 92 scenario weak rep 74 
+chunk 9 scenario moderate rep 46 
+chunk 50 scenario weak rep 60 
+chunk 11 scenario weak rep 47 
+chunk 119 scenario weak rep 83 
+chunk 116 scenario weak rep 82 
+chunk 89 scenario weak rep 73 
+chunk 17 scenario weak rep 49 
+chunk 20 scenario weak rep 50 
+chunk 122 scenario weak rep 84 
+chunk 68 scenario weak rep 66 
+chunk 29 scenario weak rep 53 
+chunk 14 scenario weak rep 48 
+chunk 107 scenario weak rep 79 
+chunk 23 scenario weak rep 51 
+chunk 53 scenario weak rep 61 
+chunk 0 scenario weak rep 86 
+chunk 57 scenario moderate rep 62 
+chunk 24 scenario moderate rep 51 
+chunk 56 scenario weak rep 62 
+chunk 113 scenario weak rep 81 
+chunk 47 scenario weak rep 59 
+chunk 101 scenario weak rep 77 
+chunk 59 scenario weak rep 63 
+chunk 74 scenario weak rep 68 
+chunk 67 scenario strong rep 65 
+chunk 80 scenario weak rep 70 
+chunk 43 scenario strong rep 57 
+chunk 35 scenario weak rep 55 
+chunk 2 scenario weak rep 44 
+chunk 70 scenario strong rep 66 
+chunk 64 scenario strong rep 64 
+chunk 13 scenario strong rep 47 
+chunk 19 scenario strong rep 49 
+chunk 97 scenario strong rep 75 
+chunk 34 scenario strong rep 54 
+chunk 115 scenario strong rep 81 
+chunk 10 scenario strong rep 46 
+chunk 106 scenario strong rep 78 
+chunk 25 scenario strong rep 51 
+chunk 61 scenario strong rep 63 
+chunk 12 scenario weak rep 90 
+chunk 93 scenario weak rep 117 
+chunk 58 scenario strong rep 62 
+chunk 4 scenario strong rep 44 
+chunk 82 scenario strong rep 70 
+chunk 90 scenario weak rep 116 
+chunk 121 scenario strong rep 83 
+chunk 73 scenario strong rep 67 
+chunk 46 scenario strong rep 58 
+chunk 96 scenario weak rep 118 
+chunk 1 scenario strong rep 43 
+chunk 84 scenario weak rep 114 
+chunk 21 scenario weak rep 93 
+chunk 79 scenario strong rep 69 
+chunk 36 scenario weak rep 98 
+chunk 109 scenario strong rep 79 
+chunk 120 scenario weak rep 126 
+chunk 28 scenario strong rep 52 
+chunk 126 scenario weak rep 128 
+chunk 108 scenario weak rep 122 
+chunk 30 scenario weak rep 96 
+chunk 16 scenario strong rep 48 
+chunk 39 scenario weak rep 99 
+chunk 22 scenario strong rep 50 
+chunk 111 scenario weak rep 123 
+chunk 15 scenario weak rep 91 
+chunk 63 scenario weak rep 107 
+chunk 99 scenario weak rep 119 
+chunk 76 scenario strong rep 68 
+chunk 66 scenario weak rep 108 
+chunk 103 scenario strong rep 77 
+chunk 37 scenario strong rep 55 
+chunk 105 scenario weak rep 121 
+chunk 87 scenario weak rep 115 
+chunk 75 scenario weak rep 111 
+chunk 55 scenario strong rep 61 
+chunk 45 scenario weak rep 101 
+chunk 100 scenario strong rep 76 
+chunk 60 scenario weak rep 106 
+chunk 6 scenario weak rep 88 
+chunk 117 scenario weak rep 125 
+chunk 49 scenario strong rep 59 
+chunk 18 scenario weak rep 92 
+chunk 42 scenario weak rep 100 
+chunk 102 scenario weak rep 120 
+chunk 78 scenario weak rep 112 
+chunk 33 scenario weak rep 97 
+chunk 69 scenario weak rep 109 
+chunk 72 scenario weak rep 110 
+chunk 51 scenario weak rep 103 
+chunk 9 scenario weak rep 89 
+chunk 7 scenario strong rep 45 
+chunk 124 scenario strong rep 84 
+chunk 27 scenario weak rep 95 
+chunk 40 scenario strong rep 56 
+chunk 52 scenario strong rep 60 
+chunk 123 scenario weak rep 127 
+chunk 81 scenario weak rep 113 
+chunk 88 scenario strong rep 72 
+chunk 127 scenario strong rep 85 
+chunk 48 scenario weak rep 102 
+chunk 112 scenario strong rep 80 
+chunk 57 scenario weak rep 105 
+chunk 94 scenario strong rep 74 
+chunk 31 scenario strong rep 53 
+chunk 85 scenario strong rep 71 
+chunk 91 scenario strong rep 73 
+chunk 67 scenario moderate rep 108 
+chunk 110 scenario strong rep 122 
+chunk 118 scenario strong rep 82 
+chunk 70 scenario moderate rep 109 
+chunk 24 scenario weak rep 94 
+chunk 64 scenario moderate rep 107 
+chunk 114 scenario weak rep 124 
+chunk 43 scenario moderate rep 100 
+chunk 54 scenario weak rep 104 
+chunk 50 scenario strong rep 102 
+chunk 13 scenario moderate rep 90 
+chunk 97 scenario moderate rep 118 
+chunk 19 scenario moderate rep 92 
+chunk 38 scenario strong rep 98 
+chunk 34 scenario moderate rep 97 
+chunk 10 scenario moderate rep 89 
+chunk 106 scenario moderate rep 121 
+chunk 3 scenario weak rep 87 
+chunk 104 scenario strong rep 120 
+chunk 4 scenario moderate rep 87 
+chunk 83 scenario strong rep 113 
+chunk 25 scenario moderate rep 94 
+chunk 115 scenario moderate rep 124 
+chunk 17 scenario strong rep 91 
+chunk 46 scenario moderate rep 101 
+chunk 71 scenario strong rep 109 
+chunk 125 scenario strong rep 127 
+chunk 29 scenario strong rep 95 
+chunk 44 scenario strong rep 100 
+chunk 1 scenario moderate rep 86 
+chunk 2 scenario strong rep 86 
+chunk 55 scenario moderate rep 104 
+chunk 92 scenario strong rep 116 
+chunk 26 scenario strong rep 94 
+chunk 73 scenario moderate rep 110 
+chunk 58 scenario moderate rep 105 
+chunk 28 scenario moderate rep 95 
+chunk 121 scenario moderate rep 126 
+chunk 61 scenario moderate rep 106 
+chunk 56 scenario strong rep 104 
+chunk 113 scenario strong rep 123 
+chunk 22 scenario moderate rep 93 
+chunk 16 scenario moderate rep 91 
+chunk 14 scenario strong rep 90 
+chunk 8 scenario strong rep 88 
+chunk 37 scenario moderate rep 98 
+chunk 98 scenario strong rep 118 
+chunk 41 scenario strong rep 99 
+chunk 100 scenario moderate rep 119 
+chunk 20 scenario strong rep 92 
+chunk 79 scenario moderate rep 112 
+chunk 49 scenario moderate rep 102 
+chunk 109 scenario moderate rep 122 
+chunk 119 scenario strong rep 125 
+chunk 124 scenario moderate rep 127 
+chunk 101 scenario strong rep 119 
+chunk 103 scenario moderate rep 120 
+chunk 52 scenario moderate rep 103 
+chunk 122 scenario strong rep 126 
+chunk 23 scenario strong rep 93 
+chunk 82 scenario moderate rep 113 
+chunk 76 scenario moderate rep 111 
+chunk 94 scenario moderate rep 117 
+chunk 0 scenario strong rep 128 
+chunk 74 scenario strong rep 110 
+chunk 40 scenario moderate rep 99 
+chunk 88 scenario moderate rep 115 
+chunk 65 scenario strong rep 107 
+chunk 53 scenario strong rep 103 
+chunk 89 scenario strong rep 115 
+chunk 127 scenario moderate rep 128 
+chunk 86 scenario strong rep 114 
+chunk 68 scenario strong rep 108 
+chunk 11 scenario strong rep 89 
+chunk 118 scenario moderate rep 125 
+chunk 77 scenario strong rep 111 
+chunk 5 scenario strong rep 87 
+chunk 95 scenario strong rep 117 
+chunk 32 scenario strong rep 96 
+chunk 31 scenario moderate rep 96 
+chunk 12 scenario strong rep 132 
+chunk 110 scenario moderate rep 165 
+chunk 85 scenario moderate rep 114 
+chunk 116 scenario strong rep 124 
+chunk 107 scenario strong rep 121 
+chunk 93 scenario strong rep 159 
+chunk 7 scenario moderate rep 88 
+chunk 50 scenario moderate rep 145 
+chunk 62 scenario strong rep 106 
+chunk 91 scenario moderate rep 116 
+chunk 70 scenario weak rep 152 
+chunk 112 scenario moderate rep 123 
+chunk 38 scenario moderate rep 141 
+chunk 47 scenario strong rep 101 
+chunk 27 scenario strong rep 137 
+chunk 97 scenario weak rep 161 
+chunk 83 scenario moderate rep 156 
+chunk 64 scenario weak rep 150 
+chunk 125 scenario moderate rep 170 
+chunk 43 scenario weak rep 143 
+chunk 13 scenario weak rep 133 
+chunk 25 scenario weak rep 137 
+chunk 66 scenario strong rep 150 
+chunk 67 scenario weak rep 151 
+chunk 24 scenario strong rep 136 
+chunk 59 scenario strong rep 105 
+chunk 39 scenario strong rep 141 
+chunk 106 scenario weak rep 164 
+chunk 92 scenario moderate rep 159 
+chunk 104 scenario moderate rep 163 
+chunk 51 scenario strong rep 145 
+chunk 45 scenario strong rep 143 
+chunk 29 scenario moderate rep 138 
+chunk 56 scenario moderate rep 147 
+chunk 102 scenario strong rep 162 
+chunk 80 scenario strong rep 112 
+chunk 36 scenario strong rep 140 
+chunk 35 scenario strong rep 97 
+chunk 71 scenario moderate rep 152 
+chunk 17 scenario moderate rep 134 
+chunk 19 scenario weak rep 135 
+chunk 117 scenario strong rep 167 
+chunk 105 scenario strong rep 163 
+chunk 15 scenario strong rep 133 
+chunk 2 scenario moderate rep 129 
+chunk 113 scenario moderate rep 166 
+chunk 126 scenario strong rep 170 
+chunk 26 scenario moderate rep 137 
+chunk 34 scenario weak rep 140 
+chunk 96 scenario strong rep 160 
+chunk 8 scenario moderate rep 131 
+chunk 1 scenario weak rep 129 
+chunk 10 scenario weak rep 132 
+chunk 115 scenario weak rep 167 
+chunk 122 scenario moderate rep 169 
+chunk 61 scenario weak rep 149 
+chunk 20 scenario moderate rep 135 
+chunk 60 scenario strong rep 148 
+chunk 4 scenario weak rep 130 
+chunk 98 scenario moderate rep 161 
+chunk 16 scenario weak rep 134 
+chunk 33 scenario strong rep 139 
+chunk 18 scenario strong rep 134 
+chunk 44 scenario moderate rep 143 
+chunk 73 scenario weak rep 153 
+chunk 111 scenario strong rep 165 
+chunk 53 scenario moderate rep 146 
+chunk 86 scenario moderate rep 157 
+chunk 54 scenario strong rep 146 
+chunk 6 scenario strong rep 130 
+chunk 30 scenario strong rep 138 
+chunk 75 scenario strong rep 153 
+chunk 55 scenario weak rep 147 
+chunk 81 scenario strong rep 155 
+chunk 14 scenario moderate rep 133 
+chunk 101 scenario moderate rep 162 
+chunk 119 scenario moderate rep 168 
+chunk 28 scenario weak rep 138 
+chunk 23 scenario moderate rep 136 
+chunk 100 scenario weak rep 162 
+chunk 65 scenario moderate rep 150 
+chunk 99 scenario strong rep 161 
+chunk 79 scenario weak rep 155 
+chunk 58 scenario weak rep 148 
+chunk 46 scenario weak rep 144 
+chunk 41 scenario moderate rep 142 
+chunk 0 scenario moderate rep 171 
+chunk 22 scenario weak rep 136 
+chunk 82 scenario weak rep 156 
+chunk 74 scenario moderate rep 153 
+chunk 42 scenario strong rep 142 
+chunk 5 scenario moderate rep 130 
+chunk 90 scenario strong rep 158 
+chunk 124 scenario weak rep 170 
+chunk 21 scenario strong rep 135 
+chunk 11 scenario moderate rep 132 
+chunk 107 scenario moderate rep 164 
+chunk 77 scenario moderate rep 154 
+chunk 12 scenario moderate rep 175 
+chunk 120 scenario strong rep 168 
+chunk 127 scenario weak rep 171 
+chunk 95 scenario moderate rep 160 
+chunk 89 scenario moderate rep 158 
+chunk 49 scenario weak rep 145 
+chunk 68 scenario moderate rep 151 
+chunk 72 scenario strong rep 152 
+chunk 87 scenario strong rep 157 
+chunk 108 scenario strong rep 164 
+chunk 121 scenario weak rep 169 
+chunk 37 scenario weak rep 141 
+chunk 52 scenario weak rep 146 
+chunk 78 scenario strong rep 154 
+chunk 7 scenario weak rep 131 
+chunk 123 scenario strong rep 169 
+chunk 103 scenario weak rep 163 
+chunk 57 scenario strong rep 147 
+chunk 109 scenario weak rep 165 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0093.csv rows 8 
+chunk 88 scenario weak rep 158 
+chunk 62 scenario moderate rep 149 
+chunk 116 scenario moderate rep 167 
+chunk 32 scenario moderate rep 139 
+chunk 50 scenario weak rep 188 
+chunk 118 scenario weak rep 168 
+chunk 76 scenario weak rep 154 
+chunk 85 scenario weak rep 157 
+chunk 84 scenario strong rep 156 
+chunk 48 scenario strong rep 144 
+chunk 114 scenario strong rep 166 
+chunk 47 scenario moderate rep 144 
+chunk 9 scenario strong rep 131 
+chunk 94 scenario weak rep 160 
+chunk 40 scenario weak rep 142 
+chunk 63 scenario strong rep 149 
+chunk 112 scenario weak rep 166 
+chunk 3 scenario strong rep 129 
+chunk 24 scenario moderate rep 179 
+chunk 59 scenario moderate rep 148 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0110.csv rows 8 
+chunk 35 scenario moderate rep 140 
+chunk 31 scenario weak rep 139 
+chunk 45 scenario moderate rep 186 
+chunk 27 scenario moderate rep 180 
+chunk 69 scenario strong rep 151 
+chunk 36 scenario moderate rep 183 
+chunk 66 scenario moderate rep 193 
+chunk 39 scenario moderate rep 184 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0102.csv rows 8 
+chunk 80 scenario moderate rep 155 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0125.csv rows 8 
+chunk 83 scenario weak rep 199 
+chunk 51 scenario moderate rep 188 
+chunk 15 scenario moderate rep 176 
+chunk 91 scenario weak rep 159 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0105.csv rows 8 
+chunk 54 scenario moderate rep 189 
+chunk 38 scenario weak rep 184 
+chunk 33 scenario moderate rep 182 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0126.csv rows 8 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0092.csv rows 8 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0113.csv rows 8 
+chunk 81 scenario moderate rep 198 
+chunk 86 scenario weak rep 200 
+chunk 6 scenario moderate rep 173 
+chunk 21 scenario moderate rep 178 
+chunk 29 scenario weak rep 181 
+chunk 18 scenario moderate rep 177 
+chunk 13 scenario strong rep 175 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0099.csv rows 8 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0104.csv rows 8 
+chunk 8 scenario weak rep 174 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0090.csv rows 8 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0117.csv rows 8 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0120.csv rows 8 
+chunk 65 scenario weak rep 193 
+chunk 71 scenario weak rep 195 
+chunk 87 scenario moderate rep 200 
+chunk 75 scenario moderate rep 196 
+chunk 60 scenario moderate rep 191 
+chunk 26 scenario weak rep 180 
+chunk 23 scenario weak rep 179 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0000.csv rows 8 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0111.csv rows 8 
+chunk 11 scenario weak rep 175 
+chunk 20 scenario weak rep 178 
+chunk 30 scenario moderate rep 181 
+chunk 17 scenario weak rep 177 
+chunk 56 scenario weak rep 190 
+chunk 14 scenario weak rep 176 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0096.csv rows 8 
+chunk 74 scenario weak rep 196 
+chunk 53 scenario weak rep 189 
+chunk 42 scenario moderate rep 185 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0101.csv rows 8 
+chunk 41 scenario weak rep 185 
+chunk 67 scenario strong rep 193 
+chunk 78 scenario moderate rep 197 
+chunk 44 scenario weak rep 186 
+chunk 2 scenario weak rep 172 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0119.csv rows 8 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0122.csv rows 8 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0108.csv rows 8 
+chunk 48 scenario moderate rep 187 
+chunk 77 scenario weak rep 197 
+chunk 84 scenario moderate rep 199 
+chunk 68 scenario weak rep 194 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0097.csv rows 8 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0123.csv rows 8 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0098.csv rows 8 
+chunk 70 scenario strong rep 194 
+chunk 57 scenario moderate rep 190 
+chunk 5 scenario weak rep 173 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0114.csv rows 8 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0115.csv rows 8 
+chunk 72 scenario moderate rep 195 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0095.csv rows 8 
+chunk 63 scenario moderate rep 192 
+chunk 47 scenario weak rep 187 
+chunk 62 scenario weak rep 192 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0116.csv rows 8 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0089.csv rows 8 
+chunk 46 scenario strong rep 186 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0012.csv rows 10 
+chunk 43 scenario strong rep 185 
+chunk 3 scenario moderate rep 172 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0107.csv rows 8 
+chunk 32 scenario weak rep 182 
+chunk 59 scenario weak rep 191 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0024.csv rows 10 
+chunk 34 scenario strong rep 182 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0045.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0015.csv rows 10 
+chunk 9 scenario moderate rep 174 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0039.csv rows 10 
+chunk 52 scenario strong rep 188 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0054.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0027.csv rows 10 
+chunk 35 scenario weak rep 183 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0036.csv rows 10 
+chunk 4 scenario strong rep 172 
+chunk 69 scenario moderate rep 194 
+chunk 1 scenario strong rep 171 
+chunk 16 scenario strong rep 176 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0106.csv rows 8 
+chunk 22 scenario strong rep 178 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0121.csv rows 8 
+chunk 10 scenario strong rep 174 
+chunk 19 scenario strong rep 177 
+chunk 37 scenario strong rep 183 
+chunk 79 scenario strong rep 197 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0066.csv rows 10 
+chunk 7 scenario strong rep 173 
+chunk 64 scenario strong rep 192 
+chunk 25 scenario strong rep 179 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0051.csv rows 10 
+chunk 61 scenario strong rep 191 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0013.csv rows 10 
+chunk 85 scenario strong rep 199 
+chunk 80 scenario weak rep 198 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0021.csv rows 10 
+chunk 28 scenario strong rep 180 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0100.csv rows 8 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0067.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0018.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0081.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0006.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0033.csv rows 10 
+chunk 82 scenario strong rep 198 
+chunk 49 scenario strong rep 187 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0087.csv rows 10 
+chunk 73 scenario strong rep 195 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0124.csv rows 8 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0109.csv rows 8 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0060.csv rows 10 
+chunk 40 scenario strong rep 184 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0070.csv rows 10 
+chunk 31 scenario strong rep 181 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0078.csv rows 10 
+chunk 58 scenario strong rep 190 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0083.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0042.csv rows 10 
+chunk 55 scenario strong rep 189 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0118.csv rows 8 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0075.csv rows 10 
+chunk 76 scenario strong rep 196 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0043.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0057.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0084.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0030.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0094.csv rows 8 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0038.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0053.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0086.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0127.csv rows 8 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0034.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0052.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0029.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0063.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0050.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0002.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0008.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0037.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0046.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0103.csv rows 8 
+chunk 88 scenario strong rep 200 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0091.csv rows 8 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0064.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0001.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0022.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0009.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0044.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0069.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0026.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0011.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0003.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0079.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0004.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0085.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0082.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0007.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0112.csv rows 8 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0048.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0061.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0010.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0072.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0068.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0016.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0014.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0056.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0023.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0028.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0020.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0025.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0019.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0049.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0074.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0071.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0017.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0077.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0073.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0005.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0058.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0041.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0076.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0031.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0040.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0065.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0035.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0055.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0059.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0047.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0032.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0088.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0062.csv rows 10 
+wrote results/gaussian_mixture_benchmark/sim_chunk_0080.csv rows 10 

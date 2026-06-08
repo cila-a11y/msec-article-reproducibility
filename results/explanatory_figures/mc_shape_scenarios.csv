@@ -1,0 +1,4 @@
+"scenario","rho","delta1","delta2","alpha1","alpha2","description","alpha_norm","alpha_angle"
+"weak",0.35,0.3,0.3,0.6,-0.4,"shallow troughs and weak modal separation",0.721110255092798,-33.6900675259798
+"moderate baseline",0.35,0.7,0.4,1.2,-0.8,"baseline geometry used in the main monte carlo design",1.4422205101856,-33.6900675259798
+"strong",0.7,1,0.7,1.2,-0.8,"pronounced troughs and stronger diagonal separation",1.4422205101856,-33.6900675259798

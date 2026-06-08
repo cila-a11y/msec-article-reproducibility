@@ -1,0 +1,8 @@
+[1] TRUE
+[1] TRUE
+written figures:
+  figures/monte_carlo/delta_sensitivity_density.pdf
+  figures/monte_carlo/mc_multimodality_scenarios.pdf
+written numerical files:
+  results/explanatory_figures/delta_sensitivity_parameters.csv
+  results/explanatory_figures/mc_shape_scenarios.csv
