@@ -11,17 +11,17 @@ required_files <- c(
   "results/faithful_v2/faithful_parameter_estimates.csv",
   "results/faithful_v2/faithful_lr_delta_bootstrap.csv",
 
-  "figures/pdf/mc_rmse_by_sample_size.pdf",
-  "figures/pdf/mc_bias_by_sample_size.pdf",
-  "figures/pdf/mc_baseline_rmse.pdf",
-  "figures/pdf/lr_skewness_rejection_rate.pdf",
-  "figures/pdf/lr_warping_rejection_rate.pdf",
-  "figures/pdf/wald_coverage_diagnostic.pdf",
+  "figures/monte_carlo/mc_rmse_by_sample_size.pdf",
+  "figures/monte_carlo/mc_bias_by_sample_size.pdf",
+  "figures/monte_carlo/mc_baseline_rmse.pdf",
+  "figures/monte_carlo/lr_skewness_rejection_rate.pdf",
+  "figures/monte_carlo/lr_warping_rejection_rate.pdf",
+  "figures/monte_carlo/wald_coverage_diagnostic.pdf",
 
-  "figures/faithful/pdf/faithful_empirical_density.pdf",
-  "figures/faithful/pdf/faithful_fitted_density.pdf",
-  "figures/faithful/pdf/faithful_whitened_coordinates.pdf",
-  "figures/faithful/pdf/faithful_radial_qq.pdf"
+  "figures/faithful/faithful_empirical_density.pdf",
+  "figures/faithful/faithful_fitted_density.pdf",
+  "figures/faithful/faithful_whitened_coordinates.pdf",
+  "figures/faithful/faithful_radial_qq.pdf"
 )
 
 missing <- required_files[!file.exists(required_files)]
