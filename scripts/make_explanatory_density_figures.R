@@ -143,60 +143,13 @@ file.copy(
 )
 
 ## ------------------------------------------------------------
-## second addition: weak, moderate, strong scenarios
+## Figure 2: no-warping, weak, moderate, and strong scenarios
 ## ------------------------------------------------------------
 
-shape_cases <- data.frame(
-  scenario = c("weak", "moderate baseline", "strong"),
-  rho = c(0.35, 0.35, 0.70),
-  delta1 = c(0.30, 0.70, 1.00),
-  delta2 = c(0.30, 0.40, 0.70),
-  alpha1 = c(0.60, 1.20, 1.20),
-  alpha2 = c(-0.40, -0.80, -0.80),
-  description = c(
-    "shallow troughs and weak modal separation",
-    "baseline geometry used in the main monte carlo design",
-    "pronounced troughs and stronger diagonal separation"
+source(
+  file.path(
+    "scripts",
+    "make_figure2_multimodality_scenarios.R"
   ),
-  stringsAsFactors = FALSE
+  local = FALSE
 )
-
-shape_cases$alpha_norm <- sqrt(shape_cases$alpha1^2 + shape_cases$alpha2^2)
-shape_cases$alpha_angle <- atan2(shape_cases$alpha2, shape_cases$alpha1) * 180 / pi
-
-write.csv(
-  shape_cases,
-  "results/explanatory_figures/mc_shape_scenarios.csv",
-  row.names = FALSE
-)
-
-save_pdf(
-  "figures/monte_carlo/mc_multimodality_scenarios.pdf",
-  function() {
-    old <- par(no.readonly = TRUE)
-    on.exit(par(old), add = TRUE)
-    par(mfrow = c(1, 3), mar = c(4.0, 4.0, 1.0, 0.8))
-
-    for (i in seq_len(nrow(shape_cases))) {
-      delta <- c(shape_cases$delta1[i], shape_cases$delta2[i])
-      alpha <- c(shape_cases$alpha1[i], shape_cases$alpha2[i])
-      g <- density_grid(rho = shape_cases$rho[i], delta = delta, alpha = alpha, lim = 2.5)
-      draw_panel(g, shape_cases$scenario[i])
-    }
-  },
-  width = 10.0,
-  height = 3.8
-)
-
-file.copy(
-  "figures/monte_carlo/mc_multimodality_scenarios.pdf",
-  "figures/pdf/mc_multimodality_scenarios.pdf",
-  overwrite = TRUE
-)
-
-cat("written figures:\n")
-cat("  figures/monte_carlo/delta_sensitivity_density.pdf\n")
-cat("  figures/monte_carlo/mc_multimodality_scenarios.pdf\n")
-cat("written numerical files:\n")
-cat("  results/explanatory_figures/delta_sensitivity_parameters.csv\n")
-cat("  results/explanatory_figures/mc_shape_scenarios.csv\n")
