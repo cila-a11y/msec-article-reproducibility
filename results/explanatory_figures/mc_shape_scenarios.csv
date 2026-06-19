@@ -1,4 +1,5 @@
-"scenario","rho","delta1","delta2","alpha1","alpha2","description","alpha_norm","alpha_angle"
-"weak",0.35,0.3,0.3,0.6,-0.4,"shallow troughs and weak modal separation",0.721110255092798,-33.6900675259798
-"moderate baseline",0.35,0.7,0.4,1.2,-0.8,"baseline geometry used in the main monte carlo design",1.4422205101856,-33.6900675259798
-"strong",0.7,1,0.7,1.2,-0.8,"pronounced troughs and stronger diagonal separation",1.4422205101856,-33.6900675259798
+"panel","scenario","mu1","mu2","sigma1","sigma2","rho","delta1","delta2","alpha1","alpha2","lambda1","lambda2","description","alpha_norm","alpha_angle_degrees"
+"(a)","No warping",0.3,-0.2,1.1,0.9,0.35,0,0,1.2,-0.8,1.36264171554803,-0.94890757810422,"identity warp; the model reduces to the skew-elliptical core",1.4422205101856,-33.6900675259798
+"(b)","Weak",0.3,-0.2,1.1,0.9,0.35,0.15,0.1,1.2,-0.8,1.36264171554803,-0.94890757810422,"shallow internal troughs and small modal displacement",1.4422205101856,-33.6900675259798
+"(c)","Moderate",0.3,-0.2,1.1,0.9,0.35,0.7,0.4,1.2,-0.8,1.36264171554803,-0.94890757810422,"baseline setting; visible but not extreme modal separation",1.4422205101856,-33.6900675259798
+"(d)","Strong",0.3,-0.2,1.1,0.9,0.35,1.3,0.9,1.2,-0.8,1.36264171554803,-0.94890757810422,"pronounced troughs and larger separation of modal regions",1.4422205101856,-33.6900675259798
